@@ -1,7 +1,6 @@
 # MyWork
 三种PBFT、RPBFT、TRPBFT共识算法的仿真
-点击左上角,可以进行选择
-![Uploading image.png…]()
+点击左上角branch,可以进行选择
 
 
 PBFT即1999年提出的PBFT算法,参考论文。。。
