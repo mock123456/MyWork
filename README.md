@@ -1,5 +1,5 @@
 # MyWork
-三种PBFT、RPBFT、TRPBFT共识算法的仿真
+两种PBFT、T-PBFT共识算法的仿真
 点击左上角branch,可以进行选择
 
 
